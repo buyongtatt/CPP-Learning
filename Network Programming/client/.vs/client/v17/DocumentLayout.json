@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B Learning\\Network Programming\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB881AB0-B64F-44CF-8D00-1E47F9F06CA7}|client\\client.vcxproj|D:\\C\u002B\u002B Learning\\Network Programming\\client\\client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB881AB0-B64F-44CF-8D00-1E47F9F06CA7}|client\\client.vcxproj|solutionrelative:client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B Learning\\Network Programming\\client\\client\\main.cpp",
+              "RelativeDocumentMoniker": "client\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002B Learning\\Network Programming\\client\\client\\main.cpp",
+              "RelativeToolTip": "client\\main.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T12:34:04.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
